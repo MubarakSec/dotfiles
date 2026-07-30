@@ -28,6 +28,7 @@ node_modules
 /glib-2.0
 /glow
 /gnome-initial-setup
+/gnome-initial-setup-done
 /go
 /goa-1.0
 /google-chrome
@@ -53,6 +54,7 @@ node_modules
 /aegis
 /autostart
 /blesh
+/btop
 /droidcam
 QtProject.conf
 .gsd-keyboard.settings-ported
@@ -62,6 +64,7 @@ user-dirs.dirs
 user-dirs.locale
 ubuntu-xdg-terminals.list
 xdg-terminals.list
+easyeffects.backup-*
 kitty.conf.bak_ar
 starship.toml.bak
 tmux.conf.bak
