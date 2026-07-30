@@ -70,5 +70,3 @@ starship.toml.bak
 tmux.conf.bak
 tmux.conf.bak2
 
-# TPM plugins — installed by prefix+I inside tmux
-tmux/plugins/
